@@ -1917,7 +1917,7 @@
     projectUrl: https://www.gatech.edu
   }
 ]'
-> project_list.json
+echo  > project_list.json
 echo '[
   {
     contacts: [
