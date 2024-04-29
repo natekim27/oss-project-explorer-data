@@ -105,5 +105,23 @@
     ],
     "projectName": "project1",
     "projectUrl": "https://www.gatech.edu"
+  },
+  {
+    "contacts": [
+      {
+        "email": "fakeemail@gmail.com",
+        "name": "gfa"
+      }
+    ],
+    "guidelinesUrl": "https://www.google.com",
+    "licenses": [
+      "ISC"
+    ],
+    "projectAbstract": "fake",
+    "projectAreas": [
+      "CS"
+    ],
+    "projectName": "Fake Project",
+    "projectUrl": "https://www.gatech.edu"
   }
 ]
