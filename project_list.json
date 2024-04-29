@@ -87,5 +87,23 @@
     ],
     "projectName": "Neural-Forge",
     "projectUrl": "http://crawr-data.com/"
+  },
+  {
+    "contacts": [
+      {
+        "email": "test@gmail.com",
+        "name": "test"
+      }
+    ],
+    "guidelinesUrl": "https://www.gatech.edu",
+    "licenses": [
+      "MIT"
+    ],
+    "projectAbstract": "Test",
+    "projectAreas": [
+      "CS"
+    ],
+    "projectName": "project1",
+    "projectUrl": "https://www.gatech.edu"
   }
 ]
