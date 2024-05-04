@@ -123,5 +123,23 @@
     ],
     "projectName": "as",
     "projectUrl": "https://www.gatech.edu"
+  },
+  {
+    "contacts": [
+      {
+        "email": "michaels@gmail.com",
+        "name": "Defin"
+      }
+    ],
+    "guidelinesUrl": "https://www.google.com",
+    "licenses": [
+      "ISC"
+    ],
+    "projectAbstract": "Fake project",
+    "projectAreas": [
+      "Bioscience"
+    ],
+    "projectName": "Test project 1",
+    "projectUrl": "https://www.gatech.edu"
   }
 ]
