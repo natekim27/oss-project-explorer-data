@@ -141,5 +141,41 @@
     ],
     "projectName": "Test project 1",
     "projectUrl": "https://www.gatech.edu"
+  },
+  {
+    "contacts": [
+      {
+        "email": "michaels@gmail.com",
+        "name": "WeEat"
+      }
+    ],
+    "guidelinesUrl": "https://www.gatech.edu",
+    "licenses": [
+      "ISC"
+    ],
+    "projectAbstract": "asdwads",
+    "projectAreas": [
+      "Bioscience"
+    ],
+    "projectName": "Nates Test Projec,
+    projectUrl: https://www.gatech.edu
+  },
+  {
+    contacts: [
+      {
+        email: michaels@gmail.com,
+        name: WeEat
+      }
+    ],
+    guidelinesUrl: https://www.gatech.edu,
+    licenses: [
+      ISC
+    ],
+    projectAbstract: asdwads,
+    projectAreas: [
+      Bioscience
+    ],
+    projectName: Nates Test Projec",
+    "projectUrl": "https://www.gatech.edu"
   }
 ]
