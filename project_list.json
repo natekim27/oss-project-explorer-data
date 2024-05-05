@@ -159,5 +159,24 @@
     ],
     "projectName": "Nates Test",
     "projectUrl": "https://www.gatech.edu"
+  },
+  {
+    "contacts": [
+      {
+        "email": "michaels@gmail.com",
+        "name": "Michael Smith"
+      }
+    ],
+    "guidelinesUrl": "https://www.gatech.edu",
+    "licenses": [
+      "Apache",
+      "MIT"
+    ],
+    "projectAbstract": "testing",
+    "projectAreas": [
+      "Bioscience"
+    ],
+    "projectName": "Testing copy",
+    "projectUrl": "https://www.gatech.edu"
   }
 ]
